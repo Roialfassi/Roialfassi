@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Roi Alfassi</h1>
-<h3 align="center">Data Enthusiast, Python Specialist.</h3>
+<h3 align="center">AI Enthusiast, Python Specialist.</h3>
 
 ## 🙋‍♂️ About Me
 - 🌱 I’m currently working on my Thesis on my **MSc in Information Systems** in the University of Haifa
