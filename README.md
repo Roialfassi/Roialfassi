@@ -4,9 +4,6 @@
 ## 🙋‍♂️ About Me
 - 🌱 I’m currently working on my Thesis on my **MSc in Information Systems** in the University of Haifa
 - My Last [AI Project](https://github.com/Roialfassi/PromptQueueRunner) 
-
-- 👨‍💻 My Website [https://roialfassi.github.io/portfolio/](https://roialfassi.github.io/portfolio/)
-
 - 📫 Reach me at **roialfassi@gmail.com**
 - My last [Kaggle notebook](https://www.kaggle.com/roialfassi/eafc-fifa-basic-eda)
 - ⚡ Fun fact **I love 83% of sports with a ball**
