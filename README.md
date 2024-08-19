@@ -3,7 +3,8 @@
 
 ## 🙋‍♂️ About Me
 - 🌱 I’m currently working on my Thesis on my **MSc in Information Systems** in the University of Haifa
-- My Last [AI Project](https://github.com/Roialfassi/PromptQueueRunner) 
+- My Last [Python Project](https://github.com/Roialfassi/Stock_Comparator) a stock comparator [streamlit website](https://stock-comparator.streamlit.app/) comparing 2 stocks over period of time
+- My Last [AI Project](https://github.com/Roialfassi/PromptQueueRunner) a project that allows you to run multiple prompts as a queue
 - 📫 Reach me at **roialfassi@gmail.com**
 - My last [Kaggle notebook](https://www.kaggle.com/roialfassi/eafc-fifa-basic-eda)
 - ⚡ Fun fact **I love 83% of sports with a ball**
