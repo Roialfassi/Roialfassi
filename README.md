@@ -2,7 +2,7 @@
 <h3 align="center">AI Enthusiast, Python Specialist.</h3>
 
 ## 🙋‍♂️ About Me
-- 🌱 I’m currently working on my Thesis on my **MSc in Information Systems** in the University of Haifa
+- 🌱 I’m an **MSc** graduate in **Information Systems** from the University of Haifa
 - My [Portfolio Page](https://roialfassi.github.io/roi-portfolio/)
 - My Last [Python Project](https://github.com/Roialfassi/Stock_Comparator) a stock comparator [streamlit website](https://stock-comparator.streamlit.app/) comparing 2 stocks over period of time
 - My Last [AI Project](https://github.com/Roialfassi/PromptQueueRunner) a project that allows you to run multiple prompts as a queue
