@@ -6,6 +6,7 @@
 - My [Portfolio Page](https://roialfassi.github.io/roi-portfolio/)
 - My Last [Python Project](https://github.com/Roialfassi/Stock_Comparator) a stock comparator [streamlit website](https://stock-comparator.streamlit.app/) comparing 2 stocks over period of time
 - My Last [AI Project](https://github.com/Roialfassi/PromptQueueRunner) a project that allows you to run multiple prompts as a queue
+- My Last [Web Project](https://github.com/Roialfassi/weight-loss-calculator) a project that allows you to set your weight goals and know how many much you need to walk to get there [Weight Loss Calculator](https://roialfassi.github.io/weight-loss-calculator/).
 - 📫 Reach me at **roialfassi@gmail.com**
 - My last [Kaggle notebook](https://www.kaggle.com/roialfassi/eafc-fifa-basic-eda)
 - ⚡ Fun fact **I love 83% of sports with a ball**
